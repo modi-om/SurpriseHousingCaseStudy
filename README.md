@@ -1,5 +1,5 @@
 ## Surprise Housing - Advanced Regression Model ( Ridge and Lasso Regression )
-> Advanced Regression using Ridge and Lasso Regression on 
+> Advanced Regression using Ridge and Lasso Regression on house price dataset
 
 
 ## Table of Contents
